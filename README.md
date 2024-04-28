@@ -16,7 +16,7 @@ The TATA Online Retail Dataset contains information about customer purchases and
 
 ## Tasks Completed
 
-1. **Data Preprocessing:** Handled missing values, encoded categorical variables, performed feature scaling, and applied dimensionality reduction techniques such as PCA and t-SNE.
+1. **Data Preprocessing:** Handled missing values, encoded categorical variables, performed feature scaling, and applied dimensionality reduction techniques such as PCA.
 
 2. **Exploratory Data Analysis (EDA):** Conducted statistical analysis and utilized visualization techniques to understand the distribution of features, correlations, and patterns in the data.
 
@@ -24,7 +24,7 @@ The TATA Online Retail Dataset contains information about customer purchases and
 
 4. **Model Evaluation:** Split the dataset into training and testing sets, trained the models on the training set, and evaluated their performance on the testing set using appropriate metrics.
 
-5. **Result Visualization:** Visualized the results of the models using plots or charts to illustrate performance metrics and insights gained from the analysis.
+5. **Result Visualization:** Visualized the results of the models using plots such as Residual plots to illustrate performance metrics and insights gained from the analysis.
 
 ## GitHub Repository Link
 
