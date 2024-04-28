@@ -28,7 +28,7 @@ The TATA Online Retail Dataset contains information about customer purchases and
 
 ## GitHub Repository Link
 
-[Link to GitHub Repository](https://github.com/yourusername/your-repository)
+[Link to GitHub Repository](https://github.com/yourusername/your-repository](https://github.com/1666sApple/TATA-Online-Retail-Customer-Behaviour)
 
 ## Instructions for Running the Notebook
 
